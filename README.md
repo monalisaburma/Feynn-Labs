@@ -46,5 +46,5 @@ The app is deployed using Streamlit.
 
 Feel free to reach out for any clarifications or questions!
 
-## Acknowledgments
+### Acknowledgments
 - Special thanks to contributors or data sources.
