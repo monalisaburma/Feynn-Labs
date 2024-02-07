@@ -44,7 +44,7 @@ Developed a Streamlit app for predicting mental health status based on various f
 
 - The app is deployed using Streamlit.
 
-## Access the Deployed Streamlit App
+### Access the Deployed Streamlit App
 
 - The Streamlit app for the Mental Health Prediction can be accessed [here](https://mentalhealth-prediction.streamlit.app/).
 
