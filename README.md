@@ -42,7 +42,11 @@ Developed a Streamlit app for predicting mental health status based on various f
 2. Run the app with `streamlit run streamlit_app.py`.
 3. Adjust sliders for each feature, click 'Predict,' and interpret the results.
 
-The app is deployed using Streamlit.
+- The app is deployed using Streamlit.
+
+## Access the Deployed Streamlit App
+
+- The Streamlit app for the Mental Health Prediction can be accessed [here](https://mentalhealth-prediction.streamlit.app/).
 
 Feel free to reach out for any clarifications or questions!
 
